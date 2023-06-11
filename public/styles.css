@@ -1,0 +1,45 @@
+html ,  corpo {
+  altura :  100 % ;
+}
+
+* {
+  margem :  0 ;
+  preenchimento :  0 ;
+  tamanho da caixa : caixa de borda;
+}
+
+# chat {
+  altura :  100 % ;
+  exibição : flexível;
+  justificar-conteúdo : centro;
+  itens de alinhamento : centro;
+  flex-direction : coluna;
+}
+
+entrada {
+  largura :  600 px ;
+  borda :  1 px sólido #ddd ; _
+  altura :  50 px ;
+  preenchimento :  0  20 px ;
+  tamanho da fonte :  14 px ;
+}
+
+botão {
+  largura :  600 px ;
+  altura :  50 px ;
+  tamanho da fonte :  14 px ;
+  plano de fundo :  # 069 ;
+  alinhamento de texto : centro;
+  altura da linha :  50 px ;
+  peso da fonte : negrito;
+  cor :  #FFF ; _
+  margem superior :  10 px ;
+}
+
+. mensagens {
+  largura :  600 px ;
+  altura :  400 px ;
+  margem :  20 px  0 ;
+  borda :  1 px sólido #ddd ; _
+  preenchimento :  20 px ;
+}
